@@ -1,3 +1,4 @@
 <?php
 	echo "Nguyen Dang Nam";
+	echo $row;
 ?>
